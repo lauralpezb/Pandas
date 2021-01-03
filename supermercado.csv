@@ -1,0 +1,7 @@
+,Categoria,Producto,Precio,Fecha,Descuento,Presentacion
+0,Verduras,Pepino,600.0,2021-01-02,480.0,Unidad
+1,Lacteos,Leche Entera,2300.0,2019-01-31,1840.0,Bolsa
+2,Carnes Frias,Salchichas,4650.0,2020-05-25,3720.0,Paquete
+3,Panaderia,Almojábana,1200.0,2020-08-12,960.0,Unidad
+4,Panaderia,Pan con queso,1500.0,2020-11-03,1200.0,Unidad
+5,Verduras,Cebolla,400.0,,,
